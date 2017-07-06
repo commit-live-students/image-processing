@@ -18,7 +18,10 @@ After this lesson, you'll be able to
 
 ## Instructors code alongs
 
+[Image Processing](https://github.com/commit-live-students/image_processing/blob/master/notebooks/image_processing_lecture.ipynb)
 
 ## Assignments 
+
+Login into commit.live to get assignments.
 
 ## Resources & Post Reads
