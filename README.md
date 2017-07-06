@@ -3,18 +3,24 @@
 # Image Processing
 
 ## Lets Get Rolling - Student Pre-Read
-Before this lesson , we recommend you go through
+* Before this lesson , please install [Open CV](https://anaconda.org/menpo/opencv3) and [moviepy](https://anaconda.org/pypi/moviepy)
 
 ## Learning Objectives 
 
 After this lesson, you'll be able to 
+* Work with Image Data sets
+* Work with Video Data sets
 
 ## Agenda
+* Introduction to Computer Vision
+* Jumping in at the deep end: Face Detection
+* Face Detection and Tracking in Videos
+* Image classification 
 
 
 ## Slides
 
-@[gslides](12MfGuRbSPV-Hgtpn1Xmd8GGvwgwbwVSp8Gx1NVKH1Mk)
+@[gslides](1cfluE6NublUyFcwjmHUPGegh5t3DztdoTtZ9r2BqnJs)
 
 ## Instructors code alongs
 
